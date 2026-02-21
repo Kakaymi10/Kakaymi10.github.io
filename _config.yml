@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: "Moussa's Tech Blog"
+description: "AI, Healthcare, and Code from Kigali."
+show_downloads: false
+google_analytics:
