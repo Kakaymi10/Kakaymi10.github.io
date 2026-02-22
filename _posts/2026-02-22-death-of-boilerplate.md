@@ -64,7 +64,7 @@ For this ecosystem to scale, we need standards. We need tools that are:
 2.  **Self-Documenting:** Your docstrings should drive the model's understanding.
 3.  **Developer-First:** You shouldn't have to leave your IDE or context-switch to write JSON.
 
-Toolify is my contribution to this standard. It’s designed to be the invisible glue between your code and your agent's brain.
+Toolify is my contribution to this ecosystem. It’s designed to be the invisible glue between your code and your agent's brain.
 
 ## Get Started
 
